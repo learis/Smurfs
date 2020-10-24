@@ -11,6 +11,7 @@ public class Main {
         smurfs1.sleep();
         smurfs1.jump();
 
+        System.out.println("--------------------");
 
         Smurfette smurfette = new Smurfette("Blue", true, true, 28, true, true);
         smurfette.cook();
